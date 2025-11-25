@@ -1,3 +1,3 @@
 print('lol')
 LOL = "msoignm"
-print('dnlkj')
+print('dnlkj',LOL)
